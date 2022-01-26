@@ -1,0 +1,5 @@
+# 忽略venv
+BookStore/venv/
+
+BookStore实验报告.pdf
+
